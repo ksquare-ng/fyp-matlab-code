@@ -27,5 +27,5 @@ Figure 12 - s_antenna (hold figure, iter = 10 for vectorAMP or iter = 100 for bo
 \
 Scenario 6: \
 Figure 13 - s_block_block (hold figure, iter = 10 for vectorAMP or iter = 100 for bomp)\
-Figure 14 - s_pilot_block (hold figure, iter = 10 for vectorAMP or iter = 100 for bomp)\
-Figure 15 - s_antenna_block (hold figure, iter = 10 for vectorAMP or iter = 100 for bomp)\
+Figure 14 - s_antenna_block (hold figure, iter = 10 for vectorAMP or iter = 100 for bomp)\
+Figure 15 - s_pilot_block (hold figure, iter = 10 for vectorAMP or iter = 100 for bomp)
